@@ -1,0 +1,5 @@
+metric,count
+Invalid payment amounts,16
+Invalid order quantities,142
+Incremental payment records,41785
+Incremental delivery events,22206
